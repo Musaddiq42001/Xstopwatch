@@ -1,2 +1,0 @@
-# xstopwatch
-xstopwatch
